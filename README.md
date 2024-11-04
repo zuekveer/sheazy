@@ -1,0 +1,2 @@
+# sheazy
+.sh
